@@ -1,7 +1,7 @@
 # Probability-Spreadsheet: A Probabilistic Spreadsheet
 A simple proof-of-concept probabilistic spreadsheet. Python recreation of Montesheet
 
-**Probability-Spreadsheet** is an experimental spreadsheet application built with PyQt5 and Python, allowing you to seamlessly mix **probability distributions** with classical spreadsheet-style arithmetic. It is a Python recreation of [Montesheet](https://github.com/dps/montesheet) See also [Probabilistic Spreadsheet](https://blog.singleton.io/posts/2021-11-24-probabilistic-spreadsheet/). This project is NOT affiliated to Montesheet.
+**Probability-Spreadsheet** is an experimental spreadsheet application built with PyQt5 and Python, allowing you to seamlessly mix **probability distributions** with classical spreadsheet-style arithmetic. It is a Python recreation of [Montesheet](https://github.com/dps/montesheet) See also [Probabilistic Spreadsheet](https://blog.singleton.io/posts/2021-11-24-probabilistic-spreadsheet/). This project is NOT affiliated with Montesheet.
 
 ## Screenshots
 
